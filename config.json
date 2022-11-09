@@ -1,0 +1,13 @@
+{
+  "token" : "MTAzOTIwNjM5OTc2NDM1MzAzNA.G_SKsv.lxndTakD7eejl8e_BqtJxcIRb1JVT8NCdu2wBI",
+  "prefix" : "!",
+  "version" : "1.327B",
+  "bot_name" : "수달만을 위한 노래 봇",
+  "owner_id" : "1039206399764353034",
+  "welcome_channel_name" : "입장알림",
+  "bye_channel_name" : "퇴장알림",
+  "notice_channel_name" : "밴채널",
+  "local_announcement_channel_name" : "공지채널",
+  "global_announcement_channel_name": "테스트",
+  "chat_log": "챗로그"
+}
